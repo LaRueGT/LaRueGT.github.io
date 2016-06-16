@@ -1,6 +1,6 @@
 .greeting {
-    background-image:  url("Chainmail.png");
-    background-size: 25% 75%;
+    background-image:  url("shirt_material.jpg");
+    background-size: cover;
 }
 
 .sticker {
