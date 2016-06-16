@@ -1,6 +1,7 @@
 .greeting {
     background-image:  url("shirt_material.jpg");
     background-size: cover;
+    border-top: solid 1em #FFCF33;
 }
 
 .sticker {
