@@ -10,3 +10,7 @@
     margin-right: auto;
     height: 33vh;
 }
+
+section {
+    column-width: 100em;
+}
