@@ -1,5 +1,6 @@
 .greeting {
     background-image:  url("Chainmail.png");
+    background-size: 20% 30%;
 }
 
 .sticker {
