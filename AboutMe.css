@@ -2,13 +2,14 @@
     background-image:  url("shirt_material.jpg");
     background-size: cover;
     border-top: solid 1em #FFCF33;
+    margin: 0 0 0 0;
 }
 
 .sticker {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    height: 33vh;
+    height: 35vh;
 }
 
 p {
