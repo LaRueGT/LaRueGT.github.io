@@ -2,7 +2,7 @@
     background-image:  url("shirt_material.jpg");
     background-size: cover;
     border-top: solid 1em #FFCF33;
-    margin: 0 0 0 0;
+    margin: -0.2em -0.2em -0.2em -0.2em;
 }
 
 .sticker {
