@@ -24,7 +24,7 @@ body {
 h1, h2 {
     font-family: "Copse", Georgia, serif;
     font-weight: bold;
-    margin: 2em 0 1em 0;
+    color: #4E7EB2;
 }
 
 h1 {
@@ -33,6 +33,7 @@ h1 {
 
 h2 {
     font-size: 1.2em;
+    margin: 2em 0 1em 0;
 }
 
 p {
@@ -54,6 +55,8 @@ p {
     letter-spacing: 0.05em;
 }
 .content-footer {
+    background-color: #B2883E;
+    margin-top: 2em;
     text-align: center;
 }
 
