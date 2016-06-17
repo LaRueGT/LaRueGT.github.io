@@ -5,7 +5,6 @@ body {
 }
 
 .greeting {
-    padding: 6em 0;
     background-image:  url("shirt_material.jpg");
     background-repeat: no-repeat;
     background-size: cover;
