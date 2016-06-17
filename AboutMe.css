@@ -22,3 +22,11 @@ p {
     margin-right: auto;
     margin-top: 2em;
 }
+
+.content-footer {
+    text-align: center;
+}
+
+.social > li {
+    display: inline-block;
+}
