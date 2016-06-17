@@ -9,7 +9,7 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
     height: 50vh;
-    border-top: solid 1em gray;
+    border-top: solid 1em #4E7EB2;
     margin: -0.5em -0.5em -0.5em -0.5em;
 }
 
@@ -55,7 +55,7 @@ p {
     letter-spacing: 0.05em;
 }
 .content-footer {
-    background-color: #B2883E;
+    background-color: FFD58B;
     margin-top: 2em;
     text-align: center;
 }
