@@ -5,7 +5,9 @@ body {
 }
 
 .greeting {
+    padding: 6em 0;
     background-image:  url("shirt_material.jpg");
+    background-repeat: no-repeat;
     background-size: cover;
     height: 50vh;
     border-top: solid 1em gray;
@@ -20,6 +22,20 @@ body {
     height: 35vh;
 }
 
+h1, h2 {
+    font-family: "Copse", Georgia, serif;
+    font-weight: bold;
+    margin: 2em 0 1em 0;
+}
+
+h1 {
+    font-size: 2em;
+}
+
+h2 {
+    font-size: 1.2em;
+}
+
 p {
     word-wrap: break-word;
 }
@@ -31,6 +47,13 @@ p {
     margin-top: 2em;
 }
 
+.intro > p,
+.location > p,
+.content-footer > p {
+    /* Typography Declarations */
+    font-weight: 300;
+    letter-spacing: 0.05em;
+}
 .content-footer {
     text-align: center;
 }
