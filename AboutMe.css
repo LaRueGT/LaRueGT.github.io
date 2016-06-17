@@ -1,7 +1,14 @@
+body {
+    color: #222222;
+    font-size: 1em;
+    font-family: "Actor", "Helvetica Neue", sans-serif;
+}
+
 .greeting {
     background-image:  url("shirt_material.jpg");
     background-size: cover;
-    border-top: solid 1em #FFCF33;
+    height: 50vh;
+    border-top: solid 1em gray;
     margin: -0.5em -0.5em -0.5em -0.5em;
 }
 
